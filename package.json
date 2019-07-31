@@ -4,7 +4,7 @@
   "description": "Flexmonster Pivot Table",
   "main": "index.js",
   "kibana": {
-    "version": "7.2.0",
+    "version": "7.3.0",
     "templateVersion": "1.0.0"
   },
   "scripts": {
