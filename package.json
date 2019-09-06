@@ -20,6 +20,6 @@
   "dependencies": {
     "elasticsearch": "^15.0.0",
     "elasticsearch-browser": "^15.0.0",
-    "react-flexmonster": "latest"
+    "react-flexmonster": "2.7.13"
   }
 }
